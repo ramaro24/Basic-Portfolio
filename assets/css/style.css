@@ -1,26 +1,79 @@
 
 
-#Name{
-    float: left;
-    width: 60%
-}
-
-
-#Portfolio top{
-    width: 13.3%;
-    float: right;
+#h1{
+    float: left;    
+    background: #4aaaa5;
+    color: aliceblue;
+    width: 20%;
+    margin: 0px;
     
 }
 
-#Contact top{
+#menu {
     float: right;
-    width: 13.3%
+    font-size: 20px;
+    
 }
-#About{
-float: right;
-width: 13.3%;
+
+.menu-item {
+    display: inline;
+    margin: 5px;
+    
+}
+img{
+    float: left;
+    height: 300px;
+    width: 300px;
+}
+
+#Box{
+    position: fixed;
+    left: 30px;
+    border: 3px solid white;
+    width: 960px;
+    float: left;
+    margin: auto;   
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 125px;
+    margin-left: 200px;
+    background-color: white;
+    height: 600px;
+    
+}
+
+    
+    
+
+footer{
+    
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        border:5px;
+        margin: 5px;
+        background-color:#666666;
+        height: 80px;
+        
+}
 
 
-}
+
+      
+
+
+
+
+
+
+
+
+    
+
+    
+
+
+
+
 
 
